@@ -3,6 +3,7 @@
 * [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
 * [Data Analysis For Partido Libertario Mx](#Data-Analysis-For-Partido-Libertario-Mx)
 * [Web Scraping Amazon Data Science Library](#Web-Scraping-Amazon-Data-Science-Library)
+* [Visualization Bibliotheque And More](#Visualization-Bibliotheque-And-More)
 * [Introducing Myself](#Introducing-Myself)
     *  [Resume](#Resume)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
@@ -84,7 +85,7 @@ I have a repository explaining the results and the way I made the project, go th
 Watch the whole report on Tableau from your browser, [click here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
-# Visualization Bibliotheque
+# [Visualization Bibliotheque And More](#Table-Of-Contents)
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
 ### Tools And Libraries:
