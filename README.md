@@ -27,7 +27,7 @@ This is a data analysis I made for Tu Cantón a real state mexican company, the 
 * Matplotlib 3.2.2
 * Power BI 2.92.943.0
 
-### Github
+### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
 I have a repository explaining the results and the way I made the project, go there [clicking](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
 
 ### Online Visualization
@@ -46,7 +46,7 @@ Here I made an analysis for Partido Libertario Mx which is similar to a Libertar
   * Excel
   * Tableau 2021.1
 
-### Github
+### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
 I have a repository explaining the results and the way I made the project, go there [clicking](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
 
 ### Online Visualization
@@ -65,7 +65,7 @@ Anyway this is an interesting project to take the best decision on what book to 
 * Jupyter Notebook
 
 
-### Github
+### [Github (click to go to the repository)](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
 I have a repository explaining the results and the way I made the project, go there [clicking](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
 
 ### Online Visualization
@@ -78,7 +78,7 @@ Some visualizations or analysis that I'm allowed to share but I don't want to ex
 ### Tools And Libraries:
 * WOW A LOT OMG!
 
-### Github
+### [Github (click to go to the repository)](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
 I have another 7 visualizations/analysis (depending on the project) there, so go to this [link](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More) hope you like them, I also have some other projects like training sql and python on hacker rank in that repository.
 
 
