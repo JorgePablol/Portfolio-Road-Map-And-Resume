@@ -62,7 +62,7 @@ Anyway this is an interesting project to take the best decision on what book to 
 * Scrapy 2.2.1
 * Tableau 2021.1
 * Pandas 1.1.3
-* Jupyter Notebook Tools And Libraries
+* Jupyter Notebook
 
 
 ### Github
@@ -72,7 +72,14 @@ I have a repository explaining the results and the way I made the project, go th
 Watch the whole report on Tableau from your browser, [click here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
+# Visualization Bibliotheque
+Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
+### Tools And Libraries:
+* WOW A LOT OMG!
+
+### Github
+I have another 7 visualizations/analysis (depending on the project) there, so go to this [link](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More) hope you like them, I also have some other projects like training sql and python on hacker rank in that repository.
 
 
 # Table Of Contents
