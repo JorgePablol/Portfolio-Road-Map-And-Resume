@@ -1,11 +1,11 @@
 # Table Of Contents
 * [Data Analysis For Desansiedad](#Data-Analysis-For-Desansiedad)
 * [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
-* [Data Analysis For Partido Libertario Mx (mexican libertarian party)](#Data-Analysis-For-Partido-Libertario-Mx-(mexican-libertarian-party))
+* [Data Analysis For Partido Libertario Mx (mexican libertarian party)](#Data-Analysis-For-Partido-Libertario-Mx)
 * [Web Scraping Amazon's Data Science Library](#Web-Scraping-Amazon's-Data-Science-Library)
 * [Introducing Myself](#Introducing-Myself)
     *  [Resume](#Resume)
-    *  [My Vision As A Data Scientist](#My-Vision-As A-Data-Scientist)
+    *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
     *  [Educational Background](#Educational-Background)
     *  [Work Experience](#Work-Experience)
 
@@ -47,7 +47,7 @@ Watch the entire report on Power BI from your browser [link.](https://app.powerb
 
 
 
-# [Data Analysis For Partido Libertario Mx (mexican libertarian party)](#Table-Of-Contents)
+# [Data Analysis For Partido Libertario Mx](#Table-Of-Contents)
 Here I made an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, what provoked the improvement, and where is the audience from.
 
 ### [Tools And Libraries](#Table-Of-Contents)
