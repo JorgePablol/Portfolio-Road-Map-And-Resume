@@ -107,15 +107,15 @@ So I decided to start learning something that fits my personality, makes me happ
 ## Resume (On Update)
 
 ## [My Vision As A Data Scientist](#Table-Of-Contents)
-My vision for data science is the vision from a chess player, a chess professor and a strategy lover, that means I love to analyse the data you give me in order to generate a logic representation of the reality, I like as a professor to communicate effectively so my mates can understant what I'm saying and as a strategist the most important after the communication is the direction we will take in the long term and how our values will take an important role to choose a direction for the organization.
+My vision for data science is the vision from a chess player, a chess professor and a strategy lover, that means I love to analyse the data you give me in order to generate a logic representation of the reality, I like as a professor to communicate effectively so my mates can understand what I'm saying and as a strategist the most important after the communication is the direction we will take in the long term and how our values will take an important role to choose a direction for the organization.
 
 ## [Educational Background](#Table-Of-Contents)
-I studied entirely via online with tha company Platzi, my grade is certification on Platzi's Data Science School, I also have on Artificial Intelligence School but I need more time to take what I learned to practice. 
+I studied entirely via online with the company Platzi, my grade is certification on Platzi's Data Science School, I also have on Artificial Intelligence School but I need more time to take what I learned to practice. 
 Other part of the study was based on the scraping you can see in my repositories, there I took the best books ever for data science and made a list on what are the best reads, so I read a lot on the topic, just as complement.
 I'm also certified by Platzi from their english school.
 
 ## [Work Experience](#Table-Of-Contents)
 I have work experience in 2 companies:
 
-* Desansiedad: I did something similar like an internship there to analyse their google analytics.
-* Partido Libertario Mx: At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events the host.
+* Desansiedad: I did something similar like an internship there, to analyse their google analytics.
+* Partido Libertario Mx: At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events they host.
