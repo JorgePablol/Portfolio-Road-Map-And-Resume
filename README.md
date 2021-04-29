@@ -13,7 +13,7 @@
 # [Data Analysis For Desansiedad](#Table-Of-Contents)
 On this project I analyzed the whole google analytics for desansiedad which is a mexican company that offers anxiety treatment via online. Their google analytics is important for their decision making as soon as their website is the way they make $$$.
 
-### [Tools And Libraries](#Table-Of-Contents)
+### [Tools And Libraries]
 * Python 3.7
 * Google Colab (Jupyter Notebook)
 * Google Analytics
@@ -33,7 +33,7 @@ Watch the entire report on google data studio [here](https://datastudio.google.c
 # [Data Analysis For Tu Canton](#Table-Of-Contents)
 This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
 
-### [Tools And Libraries](#Table-Of-Contents)
+### Tools And Libraries
 * Python 3.7
 * Pandas 1.1.3
 * Matplotlib 3.2.2
@@ -50,7 +50,7 @@ Watch the entire report on Power BI from your browser [link.](https://app.powerb
 # [Data Analysis For Partido Libertario Mx](#Table-Of-Contents)
 Here I made an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, what provoked the improvement, and where is the audience from.
 
-### [Tools And Libraries](#Table-Of-Contents)
+### Tools And Libraries
   * Python 3.7
   * Pandas 1.1.5
   * Numpy 1.19.5
@@ -69,7 +69,7 @@ Watch the whole report on Tableau from your browser, click there [Facebook](http
 On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
 Anyway this is an interesting project to take the best decision on what book to read, hopefully another data related person will take a look to my project and select the best book for him or her.
 
-### [Tools And Libraries](#Table-Of-Contents)
+### Tools And Libraries
 * Python 3.7
 * Scrapy 2.2.1
 * Tableau 2021.1
@@ -84,7 +84,7 @@ I have a repository explaining the results and the way I made the project, go th
 Watch the whole report on Tableau from your browser, [click here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
-# [Visualization Bibliotheque](#Table-Of-Contents)
+# Visualization Bibliotheque
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
 ### Tools And Libraries:
