@@ -109,6 +109,7 @@ Other part of the study was based on the scraping you can see in my repositories
 I'm also certified by Platzi from their english school.
 
 ## Work Experience
-I have work experience for 2 companies
+I have work experience in 2 companies:
+
 * Desansiedad: I did something similar like an internship there to analyse their google analytics.
 * Partido Libertario Mx: At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events the host.
