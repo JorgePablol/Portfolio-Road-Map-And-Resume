@@ -65,7 +65,7 @@ I have a repository explaining the results and the way I made the project, go th
 Watch the whole report on Tableau from your browser, click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).
   
 
-# [Web Scraping Amazon's Data Science Library](#Table-Of-Contents)
+# [Web Scraping Amazon Data Science Library](#Table-Of-Contents)
 On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
 Anyway this is an interesting project to take the best decision on what book to read, hopefully another data related person will take a look to my project and select the best book for him or her.
 
