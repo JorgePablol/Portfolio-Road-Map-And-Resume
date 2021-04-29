@@ -1,7 +1,7 @@
 # Table Of Contents
 * [Data Analysis For Desansiedad](#Data-Analysis-For-Desansiedad)
 * [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
-* [Data Analysis For Partido Libertario Mx (mexican libertarian party)](#Data-Analysis-For-Partido-Libertario-Mx)
+* [Data Analysis For Partido Libertario Mx](#Data-Analysis-For-Partido-Libertario-Mx)
 * [Web Scraping Amazon's Data Science Library](#Web-Scraping-Amazon's-Data-Science-Library)
 * [Introducing Myself](#Introducing-Myself)
     *  [Resume](#Resume)
