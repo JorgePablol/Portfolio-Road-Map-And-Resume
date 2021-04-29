@@ -13,7 +13,7 @@
 # [Data Analysis For Desansiedad](#Table-Of-Contents)
 On this project I analyzed the whole google analytics for desansiedad which is a mexican company that offers anxiety treatment via online. Their google analytics is important for their decision making as soon as their website is the way they make $$$.
 
-### [Tools And Libraries]
+### Tools And Libraries
 * Python 3.7
 * Google Colab (Jupyter Notebook)
 * Google Analytics
