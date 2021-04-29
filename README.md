@@ -3,6 +3,11 @@
 * Data Analysis For Tu Canton
 * Data Analysis For Partido Libertario Mx (mexican libertarian party)
 * Web Scraping Amazon's Data Science Library
+* Introducing Myself
+    *  Resume
+    *  My Vision As A Data Scientist
+    *  School Background
+    *  Work Experience
 
 
 # [Data Analysis For Desansiedad](#Table-Of-Contents)
