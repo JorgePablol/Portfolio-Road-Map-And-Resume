@@ -92,8 +92,11 @@ I have another 7 visualizations/analysis (depending on the project) there, so go
 
 # Introducing Myself
 Hello my name is Jorge Pablo I'm from Mexico and I live in Mexico too, I have a clean philosophy that is: I live my own way of living strictly respecting the others life project.
+
 What got me into data science at first was my passion for chess, I discovered I had extraordinary analytical skills when I was learning chess. What I liked from chess was the analysis and the strategy you know short-term actions directed by long-term objectives.
+
 I won some tournaments, achieved 1600 Official ELO not online ELO, and I was also professor of chess for 4 years for my high school. I loved to work as a professor it was a great time of my life but at some point I had a problem with chess and that is that it doesn't matter for real life or reality, chess doesn't have an impact in real life decisions and therefore the hours of study, training and analysis don't even matter. Plot twist I decided to study psychology haha, I liked behavioural pyschology and cognitive psychology, they weren't teaching much of that, they were teaching psychoanalisis so I left and yes they were lazy hippies. 
+
 So I decided to start learning something that fits my personality, makes me happy and has a future in terms of $$$, that intersection is called data science, the place you can express your passion for analysis, the creativity that leads to a better strategy, the need for effective communication for better decision making, the coolness of being at the top of the technology, the future of Machine Learning and the ca$h all together, so I started learning online almost all day for a couple of years and then went to organizations to take the initiative to do data analysis for them, after that, yes, after that I'm here, hope you like my profile.
 ## Resume (On Update)
 
