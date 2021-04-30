@@ -5,7 +5,7 @@
 * [Web Scraping Amazon Data Science Library](#Web-Scraping-Amazon-Data-Science-Library)
 * [Visualization Bibliotheque And More](#Visualization-Bibliotheque-And-More)
 * [Introducing Myself](#Introducing-Myself)
-    *  [Resume CLICK TO THE FILE](#Resume-CLICK-TO-THE-FILE)
+    *  [Resume](#Resume-CLICK-TO-THE-FILE)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
     *  [Educational Background](#Educational-Background)
     *  [Work Experience](#Work-Experience)
@@ -105,7 +105,7 @@ I won some tournaments, achieved 1600 Official ELO not online ELO, and I was als
 
 So I decided to start learning something that fits my personality, makes me happy and has a future in terms of $$$, that intersection is called data science, the place you can express your passion for analysis, the creativity that leads to a better strategy, the need for effective communication for better decision making, the coolness of being at the top of the technology, the future of Machine Learning and the ca$h all together, so I started learning online almost all day for a couple of years and then went to organizations to take the initiative to do data analysis for them, after that, yes, after that I'm here, hope you like my profile.
 
-## [Resume (click to the file)](https://drive.google.com/file/d/11e6bK_ISzghZQGmbQtEm5Hnaf8S4PVX5/view?usp=sharing)
+## [Resume CLICK TO THE FILE](https://drive.google.com/file/d/11e6bK_ISzghZQGmbQtEm5Hnaf8S4PVX5/view?usp=sharing)
 
 ## [My Vision As A Data Scientist](#Table-Of-Contents)
 My vision for data science is the vision from a chess player, a chess professor and a strategy lover, that means I love to analyse the data you give me in order to generate a logic representation of the reality, I like as a professor to communicate effectively so my mates can understand what I'm saying and as a strategist the most important after the communication is the direction we will take in the long term and how our values will take an important role to choose a direction for the organization.
