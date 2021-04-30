@@ -118,5 +118,5 @@ I'm also certified by Platzi from their english school.
 ## [Work Experience](#Table-Of-Contents)
 I have work experience in 2 companies:
 
-* Desansiedad: I did something similar like an internship there, to analyse their google analytics.
-* Partido Libertario Mx: At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events they host.
+* Desansiedad (1 month): They are a company that offers anxiety treatment, I analized their entire google analytics and presented the insights to the marketing team. I did something similar like an internship there.
+* Partido Libertario Mx (6 months): They are a new organization trying to be the first libertarian party of Mexico, my work has been to analyse their data from social networks, their affiliates data and the impact of their events, the reports I do impact the decision making of the organization. At first I started proposing myself to analyse their data but now I work with them to delivery their monthly reports, and also to report the impacts of events they host.
