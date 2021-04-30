@@ -5,7 +5,7 @@
 * [Web Scraping Amazon Data Science Library](#Web-Scraping-Amazon-Data-Science-Library)
 * [Visualization Bibliotheque And More](#Visualization-Bibliotheque-And-More)
 * [Introducing Myself](#Introducing-Myself)
-    *  [Resume](#Resume)
+    *  [Resume CLICK TO THE FILE](#Resume-CLICK-TO-THE-FILE)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
     *  [Educational Background](#Educational-Background)
     *  [Work Experience](#Work-Experience)
