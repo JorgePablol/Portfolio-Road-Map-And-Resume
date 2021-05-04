@@ -115,6 +115,7 @@ My vision for data science is the vision from a chess player, a chess professor 
 I studied entirely via online with the company Platzi, my grade is certification on Platzi's Data Science School, I also have on Artificial Intelligence School but I need more time to take what I learned to practice. 
 Other part of the study was based on the scraping you can see in my repositories, there I took the best books ever for data science and made a list on what are the best reads, so I read a lot on the topic, just as complement.
 I'm also certified by Platzi from their english school.
+You can see all the courses I took on my [linkedin](https://www.linkedin.com/in/jorgepablo/)
 
 ## [Work Experience](#Table-Of-Contents)
 I have work experience in 2 companies:
