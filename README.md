@@ -25,8 +25,7 @@ On this project I analyzed the whole google analytics for desansiedad which is a
 
 ### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
 
-### Online Visualization
-Watch the entire report on google data studio [here](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B)
+### [Online Visualization (click to watch it)](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B)
 
 
 
@@ -41,8 +40,7 @@ This is a data analysis I made for Tu Cantón a real state mexican company, the 
 
 ### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
 
-### Online Visualization
-Watch the entire report on Power BI from your browser [link.](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
+### [Online Visualization (click to watch it)](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 
 
 
@@ -60,7 +58,7 @@ Here I made an analysis for Partido Libertario Mx which is similar to a Libertar
 ### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
 
 ### Online Visualization
-Watch the whole report on Tableau from your browser, click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).
+**Watch the whole report on Tableau from your browser, click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).**
   
 
 # [Web Scraping Amazon Data Science Library](#Table-Of-Contents)
@@ -77,15 +75,12 @@ Anyway this is an interesting project to take the best decision on what book to 
 
 ### [Github (click to go to the repository)](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
 
-### Online Visualization
-Watch the whole report on Tableau from your browser, [click here](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+### [Online Visualization (click to watch it)](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
 # [Visualization Bibliotheque And More](#Table-Of-Contents)
 Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
 
-### Tools And Libraries:
-* WOW A LOT OMG!
 
 ### [Github (click to go to the repository)](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
 I have another 7 visualizations/analysis (depending on the project) there, so go to this [link](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More) hope you like them, I also have some other projects like training sql and python on hacker rank in that repository.
