@@ -96,7 +96,8 @@ I won some tournaments, achieved 1600 Official ELO not online ELO, and I was als
 
 So I decided to start learning something that fits my personality, makes me happy and has a future in terms of $$$, that intersection is called data science, the place you can express your passion for analysis, the creativity that leads to a better strategy, the need for effective communication for better decision making, the coolness of being at the top of the technology, the future of Machine Learning and the ca$h all together, so I started learning online almost all day for a couple of years and then went to organizations to take the initiative to do data analysis for them, after that, yes, after that I'm here, hope you like my profile.
 
-## [Resume CLICK HERE TO SEE THE FILE](https://drive.google.com/file/d/1hMQ5ffYpih1jMxFUiiVJiZR0HQz1RZIP/view?usp=sharing)
+## [Resume CLICK HERE TO SEE THE FILE](https://drive.google.com/file/d/198FMu7zYp7lHUSn6L9Kwmf5_UlD3Q1Za/view?usp=sharing)
+Click on the title above.
 
 ## [My Vision As A Data Scientist](#Table-Of-Contents)
 My vision for data science is the vision from a chess player, a chess professor and a strategy lover, that means I love to analyse the data you give me in order to generate a logic representation of the reality, I like as a professor to communicate effectively so my mates can understand what I'm saying and as a strategist the most important after the communication is the direction we will take in the long term and how our values will take an important role to choose a direction for the organization.
