@@ -6,9 +6,7 @@
    * [Repository](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 * Data Analysis For Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
-   * Online Visualization
-            * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
-            * [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+   * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 * Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://tinyurl.com/desansiedad)
