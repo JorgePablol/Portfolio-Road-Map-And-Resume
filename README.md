@@ -4,18 +4,18 @@
    * [Online Visualization](https://tinyurl.com/desansiedad)
 * [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
    * [Repository](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
-* [Data Analysis For Partido Libertario Mx](#Data-Analysis-For-Partido-Libertario-Mx)
+* Data Analysis For Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
-   * [Online Visualization]
-           * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
-           * [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
-* [Web Scraping Amazon Data Science Library](#Web-Scraping-Amazon-Data-Science-Library)
+   * Online Visualization
+            * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
+            * [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+* Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://tinyurl.com/desansiedad)
-* [Visualization Bibliotheque And More](#Visualization-Bibliotheque-And-More)
+* Visualization Bibliotheque And More
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
-* [Introducing Myself](#Introducing-Myself)
+* Introducing Myself
     *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
     *  [Educational Background](#Educational-Background)
