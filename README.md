@@ -1,9 +1,20 @@
-# Table Of Contents
-* [Data Analysis For Desansiedad](#Data-Analysis-For-Desansiedad)
+# Table Of Links
+* Data Analysis For Desansiedad
+   * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
+   * [Online Visualization](https://tinyurl.com/desansiedad)
 * [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
+   * [Repository](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 * [Data Analysis For Partido Libertario Mx](#Data-Analysis-For-Partido-Libertario-Mx)
+   * [Repository](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
+   * [Online Visualization]
+           * [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link)
+           * [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 * [Web Scraping Amazon Data Science Library](#Web-Scraping-Amazon-Data-Science-Library)
+   * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
+   * [Online Visualization](https://tinyurl.com/desansiedad)
 * [Visualization Bibliotheque And More](#Visualization-Bibliotheque-And-More)
+   * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
+   * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 * [Introducing Myself](#Introducing-Myself)
     *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
@@ -11,55 +22,6 @@
     *  [Work Experience](#Work-Experience)
 
 
-# [Data Analysis For Desansiedad](#Table-Of-Contents)
-On this project I analyzed the whole google analytics for desansiedad which is a mexican company that offers anxiety treatment via online. Their google analytics is important for their decision making as soon as their website is the way they make $$$.
-
-### Tools And Libraries
-* Python 3.7
-* Google Colab (Jupyter Notebook)
-* Google Analytics
-* Google Data Studio 
-* Excel 2020
-* Pandas 1.1.3
-* Numpy
-
-### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
-
-### [Online Visualization (click to watch it)](https://datastudio.google.com/reporting/61f04c52-93e3-4ec5-969a-719304c32849/page/cyT9B)
-
-
-
-# [Data Analysis For Tu Canton](#Table-Of-Contents)
-This is a data analysis I made for Tu Cantón a real state mexican company, the client asked me to answer 6 questions so the entire analysis goes around then more than an exploratory analysis or a data analysis for modeling. 
-
-### Tools And Libraries
-* Python 3.7
-* Pandas 1.1.3
-* Matplotlib 3.2.2
-* Power BI 2.92.943.0
-
-### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
-
-### [Online Visualization (click to watch it)](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
-
-
-
-# [Data Analysis For Partido Libertario Mx](#Table-Of-Contents)
-Here I made an analysis for Partido Libertario Mx which is similar to a Libertarian Party, this analysis belongs to february 2021 data, the purpose is to analyse if their social networks are growing or not, what provoked the improvement, and where is the audience from.
-
-### Tools And Libraries
-  * Python 3.7
-  * Pandas 1.1.5
-  * Numpy 1.19.5
-  * Datetime
-  * Excel
-  * Tableau 2021.1
-
-### [Github (click to go to the repository)](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
-
-### Online Visualization
-**Watch the whole report on Tableau from your browser, click there [Facebook](https://public.tableau.com/views/facebookfebPlib/Story1?:language=es&:display_count=y&:origin=viz_share_link) and [Twitter](https://public.tableau.com/views/FebPlib/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link).**
-  
 
 # [Web Scraping Amazon Data Science Library](#Table-Of-Contents)
 On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
@@ -73,9 +35,9 @@ Anyway this is an interesting project to take the best decision on what book to 
 * Jupyter Notebook
 
 
-### [Github (click to go to the repository)](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
+### [Github (click to go to the repository)]()
 
-### [Online Visualization (click to watch it)](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+### [Online Visualization (click to watch it)]()
 
 
 # [Visualization Bibliotheque And More](#Table-Of-Contents)
