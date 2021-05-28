@@ -21,32 +21,6 @@
 
 
 
-# [Web Scraping Amazon Data Science Library](#Table-Of-Contents)
-On this project I scraped the Amazon Data Science Library given by searching 'Data Science' on the search bar, the website scraped was amazon.com.mx which is amazon version for Mexico, nevertheless most of books scraped are in english, don't forget that all the prices will be in mexican pesos. Also I couldn't scrape all the prices at all. 
-Anyway this is an interesting project to take the best decision on what book to read, hopefully another data related person will take a look to my project and select the best book for him or her.
-
-### Tools And Libraries
-* Python 3.7
-* Scrapy 2.2.1
-* Tableau 2021.1
-* Pandas 1.1.3
-* Jupyter Notebook
-
-
-### [Github (click to go to the repository)]()
-
-### [Online Visualization (click to watch it)]()
-
-
-# [Visualization Bibliotheque And More](#Table-Of-Contents)
-Some visualizations or analysis that I'm allowed to share but I don't want to explain them as an entire project. Excepting for play story that is actually explained as an entire project xd.
-
-
-### [Github (click to go to the repository)](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
-I have another 7 visualizations/analysis (depending on the project) there, so go to this [link](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More) hope you like them, I also have some other projects like training sql and python on hacker rank in that repository.
-
-
-
 # [Introducing Myself](#Table-Of-Contents)
 Hello my name is Jorge Pablo I'm from Mexico and I live in Mexico too, I have a clean philosophy that is: I live my own way of living strictly respecting the others life project.
 
