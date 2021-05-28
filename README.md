@@ -2,7 +2,7 @@
 * Data Analysis For Desansiedad
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization](https://tinyurl.com/desansiedad)
-* [Data Analysis For Tu Canton](#Data-Analysis-For-Tu-Canton)
+* Data Analysis For Tu Canton
    * [Repository](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 * Data Analysis For Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Libertarian-with-Tableau)
