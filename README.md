@@ -31,7 +31,7 @@ I won some tournaments, achieved 1600 Official ELO not online ELO, and I was als
 
 So I decided to start learning something that fits my personality, makes me happy and has a future in terms of $$$, that intersection is called data science, the place you can express your passion for analysis, the creativity that leads to a better strategy, the need for effective communication for better decision making, the coolness of being at the top of the technology, the future of Machine Learning and the ca$h all together, so I started learning online almost all day for a couple of years and then went to organizations to take the initiative to do data analysis for them, after that, yes, after that I'm here, hope you like my profile.
 
-## [Resume CLICK HERE TO SEE THE FILE](https://drive.google.com/file/d/1WOEjcjgNACzfKs0enmOcK_F_yXguSRsb/view?usp=sharing)
+## [Resume CLICK HERE TO SEE THE FILE](https://drive.google.com/file/d/1Er1OsvRpMs2ErDyBApEKG8lAyyigdtK0/view?usp=sharingg)
 Click on the title above.
 
 ## [My Vision As A Data Scientist](#Table-Of-Contents)
