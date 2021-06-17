@@ -10,14 +10,16 @@
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization with Data Studio](https://tinyurl.com/desansiedad)
 
-![d](https://user-images.githubusercontent.com/58957744/122470141-56de3280-cf83-11eb-80a7-6b3888b391f2.jpg)
+![des](https://user-images.githubusercontent.com/58957744/122470830-234fd800-cf84-11eb-98c7-a1790144f44a.jpg)
+
 
 
 ### Funnel Questions For Tu Canton
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 
-![logotucanton](https://user-images.githubusercontent.com/58957744/122470215-69586c00-cf83-11eb-8051-8a7924283de9.png)
+![logotucanton2](https://user-images.githubusercontent.com/58957744/122470851-28ad2280-cf84-11eb-9a16-1383de50c000.png)
+
 
 
 ### Audience, Affiliations and Strategy For Partido Libertario Mx
@@ -31,7 +33,7 @@
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
-![unnamed](https://user-images.githubusercontent.com/58957744/122470285-7b3a0f00-cf83-11eb-9619-a145ba43d0ce.png)
+![am](https://user-images.githubusercontent.com/58957744/122470859-2e0a6d00-cf84-11eb-9da1-57bbf15d2fe4.png)
 
 
 ### Visualization Bibliotheque And More
