@@ -3,14 +3,15 @@
    * [Repository](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/README.md)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
 
-![ddddddd](https://user-images.githubusercontent.com/58957744/122470126-52b21500-cf83-11eb-8b45-06c082e87437.png)
+![twitter](https://user-images.githubusercontent.com/58957744/122470922-424e6a00-cf84-11eb-9137-5b5b28e8b2ad.png)
 
 
 ### Google Analytics Analysis For Desansiedad
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization with Data Studio](https://tinyurl.com/desansiedad)
 
-![des](https://user-images.githubusercontent.com/58957744/122470830-234fd800-cf84-11eb-98c7-a1790144f44a.jpg)
+![des](https://user-images.githubusercontent.com/58957744/122470935-45495a80-cf84-11eb-81d8-10b004681021.png)
+
 
 
 
@@ -18,7 +19,8 @@
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 
-![logotucanton2](https://user-images.githubusercontent.com/58957744/122470851-28ad2280-cf84-11eb-9a16-1383de50c000.png)
+![tica](https://user-images.githubusercontent.com/58957744/122470952-49757800-cf84-11eb-82b4-50e59262cdf9.png)
+
 
 
 
@@ -26,14 +28,15 @@
    * [Repository](https://github.com/JorgePablol/Audience-and-Affiliations-Tableau-PLibMx)
    * [Online Visualization with Tableau](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
 
-![ddddddd](https://user-images.githubusercontent.com/58957744/122470231-6e1d2000-cf83-11eb-8366-1dbc84bf6fc2.png)
+![afiliados](https://user-images.githubusercontent.com/58957744/122470968-4da19580-cf84-11eb-9d76-b9345bc93cc9.png)
 
 
 ### Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
 
-![am](https://user-images.githubusercontent.com/58957744/122470859-2e0a6d00-cf84-11eb-9da1-57bbf15d2fe4.png)
+![scara](https://user-images.githubusercontent.com/58957744/122470982-51cdb300-cf84-11eb-834c-b377f5225f61.png)
+
 
 
 ### Visualization Bibliotheque And More
