@@ -8,7 +8,7 @@
 
 ### Google Analytics Analysis For Desansiedad
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
-   * [Report Document made with Data Studioo](https://tinyurl.com/desansiedad)
+   * [Report Document made with Data Studio](https://tinyurl.com/desansiedad)
 
 ![des](https://user-images.githubusercontent.com/58957744/122470935-45495a80-cf84-11eb-81d8-10b004681021.png)
 
