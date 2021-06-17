@@ -14,7 +14,7 @@
 ### Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
-* Visualization Bibliotheque And More
+### Visualization Bibliotheque And More
    * [Repository with the links to the visualizations](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
 ### Introducing Myself
    *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
