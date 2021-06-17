@@ -1,4 +1,4 @@
-# Table Of Links
+# Projects
 ### Social Networks Analysis and Insights for Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/README.md)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
