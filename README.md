@@ -2,18 +2,38 @@
 ### Social Networks Analysis and Insights for Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/README.md)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
+
+![ddddddd](https://user-images.githubusercontent.com/58957744/122470126-52b21500-cf83-11eb-8b45-06c082e87437.png)
+
+
 ### Google Analytics Analysis For Desansiedad
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization with Data Studio](https://tinyurl.com/desansiedad)
+
+![d](https://user-images.githubusercontent.com/58957744/122470141-56de3280-cf83-11eb-80a7-6b3888b391f2.jpg)
+
+
 ### Funnel Questions For Tu Canton
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
    * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
+
+![logotucanton](https://user-images.githubusercontent.com/58957744/122470215-69586c00-cf83-11eb-8051-8a7924283de9.png)
+
+
 ### Audience, Affiliations and Strategy For Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Audience-and-Affiliations-Tableau-PLibMx)
    * [Online Visualization with Tableau](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
+
+![ddddddd](https://user-images.githubusercontent.com/58957744/122470231-6e1d2000-cf83-11eb-8366-1dbc84bf6fc2.png)
+
+
 ### Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+
+![unnamed](https://user-images.githubusercontent.com/58957744/122470285-7b3a0f00-cf83-11eb-9619-a145ba43d0ce.png)
+
+
 ### Visualization Bibliotheque And More
    * [Repository with the links to the visualizations](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
 ### Introducing Myself
