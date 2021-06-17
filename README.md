@@ -1,22 +1,21 @@
 # Table Of Links
 * Social Networks Analysis and Insights for Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Social-Networks-Analysis-for-PLibMx/blob/main/README.md)
-   * [Online Visualization](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
+   * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzMxNmQ2OWEtNzkxZS00Y2E2LTg1MDktMTdhNzZkMTAyYzc3IiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9)
 * Google Analytics Analysis For Desansiedad
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
-   * [Online Visualization](https://tinyurl.com/desansiedad)
+   * [Online Visualization with Data Studio](https://tinyurl.com/desansiedad)
 * Funnel Questions For Tu Canton
    * [Repository](https://github.com/JorgePablol/Data-Analysis-Real-State-with-Power-BI)
-   * [Online Visualization](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
+   * [Online Visualization with Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWQyMjQxMDEtZjIyMC00OWFkLTkwYmYtMmVlZDVlYjZiZjNiIiwidCI6IjJlZGE0M2M5LTUxYzktNDAwMi1iZjJmLTlmY2QwMzZmNjdkNyJ9&pageName=ReportSectionf6913e9c09601dd278ae)
 * Audience, Affiliations and Strategy For Partido Libertario Mx
    * [Repository](https://github.com/JorgePablol/Audience-and-Affiliations-Tableau-PLibMx)
-   * [Online Visualization](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
+   * [Online Visualization with Tableau](https://public.tableau.com/app/profile/jorge.pablo/viz/AudienciaPlib2021/AudienciaFByAfiliados)
 * Web Scraping Amazon Data Science Library
    * [Repository](https://github.com/JorgePablol/Scraping-And-Viz-Data-Science-Books)
-   * [Online Visualization](https://tinyurl.com/desansiedad)
-* Visualization Bibliotheque And More
-   * [Repository](https://github.com/JorgePablol/Data-Analysis-Desansiedad-with-Data-Studio)
    * [Online Visualization](https://public.tableau.com/views/DataScienceLibraryViz/Story1?:language=es&:display_count=y&publish=yes&:origin=viz_share_link)
+* Visualization Bibliotheque And More
+   * [Repository with the links to the visualizations](https://github.com/JorgePablol/Visualization-Bibliotheque-And-More)
 * Introducing Myself
     *  [Resume](#Resume-CLICK-HERE-TO-SEE-THE-FILE)
     *  [My Vision As A Data Scientist](#My-Vision-As-A-Data-Scientist)
